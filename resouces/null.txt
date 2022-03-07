@@ -1,0 +1,23 @@
+Name,Team,Number,Position,Age,Height,Weight,College,Salary
+Avery Bradley,0,PG,25,06-Feb,180,Texas,7730337
+Jae Crowder,Boston Celtics,99,SF,25,06-Jun,235,Marquette
+John Holland,Boston Celtics,30,SG,27,06-May,205,Boston University
+R.J. Hunter,Boston Celtics,28,SG,22,06-May,185,Georgia State,1148640
+Jonas Jerebko,Boston Celtics,8,PF,29,06-Oct,231,,5000000
+Amir Johnson,Boston Celtics,90,PF,29,06-Sep,240,,12000000
+Jordan Mickey,Boston Celtics,55,PF,21,06-Aug,235,LSU,1170960
+Kelly Olynyk,Boston Celtics,41,C,25,7-0,238,Gonzaga,2165160
+Terry Rozier,Boston Celtics,12,PG,22,06-Feb,190,Louisville,1824360
+Marcus Smart,Boston Celtics,36,PG,22,06-Apr,220,Oklahoma State,3431040
+Jared Sullinger,Boston Celtics,7,C,24,06-Sep,260,Ohio State,2569260
+Isaiah Thomas,Boston Celtics,4,PG,27,05-Sep,185,Washington,6912869
+Evan Turner,11,SG,27,06-Jul,220,Ohio State,3425510
+James Young,Boston Celtics,13,SG,20,06-Jun,215,Kentucky,1749840
+Tyler Zeller,Boston Celtics,44,C,26,7-0,253,North Carolina,2616975
+Bojan Bogdanovic,Brooklyn Nets,06-Aug,216,,3425510
+Markel Brown,Brooklyn Nets,22,SG,24,06-Mar,190,Oklahoma State,845059
+Wayne Ellington,Brooklyn Nets,21,SG,28,06-Apr,200,North Carolina,1500000
+Rondae Hollis-Jefferson,Brooklyn Nets,24,SG,21,06-Jul,220,Arizona,1335480
+Jarrett Jack,Brooklyn Nets,2,PG,32,06-Mar,200,Georgia Tech,6300000
+Sergey Karasev,Brooklyn Nets,10,SG,22,06-Jul,208,,1599840
+Sean Kilpatrick,Brooklyn Nets,6,SG,26,06-Apr,219,Cincinnati,134215
